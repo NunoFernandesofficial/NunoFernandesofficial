@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Nuno Fernandes and i am from Portugal
 
-- 🔭 I’m currently working on a website
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently on a CiberSecurity Course 
+- 🌱 I’m currently learning JavaScript
 
 <div>
   <a href="https://github.com/NunoFernandesofficial">
