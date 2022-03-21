@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Nuno Fernandes aka tr1h4rd3r
 
-- 🔭 I’m currently on a CiberSecurity Course 
+- 🔭 I’m currently on a CyberSecurity Course 
 
 <div>
   <a href="https://github.com/NunoFernandesofficial">
